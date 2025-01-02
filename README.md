@@ -1,7 +1,7 @@
 # Heart Disease Prediction
 
 ## Overview
-Heart disease remains a leading cause of mortality worldwide, and early diagnosis plays a crucial role in improving patient outcomes. This project leverages machine learning techniques to predict the likelihood of heart disease based on clinical factors. Using an XGBoost classifier, the model analyzes features like cholesterol levels, blood pressure, and maximum heart rate, achieving an impressive accuracy of **90%**.
+Heart disease remains a leading cause of mortality worldwide, and early diagnosis plays a crucial role in improving patient outcomes. This project leverages machine learning techniques to predict the likelihood of heart disease based on clinical factors. Using an XGBoost classifier, the model analyzes features like cholesterol levels, blood pressure, and maximum heart rate, achieving an impressive accuracy of **85.3%**.
 
 This project serves as a valuable resource for healthcare professionals and researchers, offering insights into the key contributors to heart disease and facilitating data-driven decision-making.
 
