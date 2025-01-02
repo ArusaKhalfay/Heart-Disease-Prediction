@@ -7,7 +7,6 @@ This project serves as a valuable resource for healthcare professionals and rese
 
 ## Project Highlights
 - **Algorithm**: XGBoost Classifier, known for its speed and accuracy in tabular data analysis.
-- **Accuracy**: 90%, providing reliable predictions for heart disease risk.
 - **Clinical Factors Analyzed**: 
   - Cholesterol levels
   - Blood pressure
